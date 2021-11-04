@@ -14,20 +14,19 @@ Repository help(Instruction):
 Luck for create!
 
 Download from GitHub(Instruction):
-Есть два варианта:
-1 вариант - Скачать по кнопке <<Code>> рядом с открытым репозиторием, и нажать на кнопку <<Download ZIP>>. Она скачает в формате .zip(архив). Откройте
-архив. Далее нужно распаковать архив. После распаковки можно открыть файлы.
-2 вариант - Нажать на кнопку <<Code>> рядом с открытым репозиторием, далее скопировать адрес HTTPS, и сделать:
-1) Открыть GIT Bash
-2) Перейти на рабочий стол с помощью - cmd: cd <nameDir> | IMO
-3) (cmd: git clone <address> <--- Вставьте скопированный адрес, который был скопирован во вкладке с открытым репозиторием <<Code>> > <<HTTPS Copy Address>>)
+1 option - Download by clicking the <<Code>> button next to the open repository, and click on the <<Download ZIP>> button. It will download in the format .zip(archive). Open
+the archive. Next, you need to unpack the archive. After unpacking, you can open the files.
+Option 2 - Click on the <<Code>> button next to the open repository, then copy the HTTPS address, and do:
+1) Open GIT Bash
+2) Go to the desktop using - cmd: cd <namedir> / IMO
+3) (cmd: git clone <address> <--- Paste the copied address that was copied in the open repository tab <<Code>>> <<HTTPS Copy Address>>)
 
 How to open program project:
-1 вариант - 
-1) Открыть PyCharm
-2) <<File>> --> <<Open:img:>> ---> Path to ProgramProject
-3) <<Edit Configuration>> --> <<+>> --> Interpretate: Python 3.9 --> Script path: <fileName.py>
-2 вариант - 
-1) Открыть GIT Bash
-2) (cmd: cd <nameDir> | IMO <--- Перейдите в директорию)
+1 option -
+1) Open PyCharm
+2) <<File>> --> <<Open:img:>> ---> Path to Program Project
+3) <<Edit Configuration>> --> <<+>> --> Interpret: Python 3.9 --> Script path: <fileName.py >
+option 2 -
+1) Open GIT Bash
+2) (cmd: cd <namedir> | IMO <--- Go to the directory)
 3) (cmd: python <fileName>.py)
